@@ -32,5 +32,5 @@ python train_model.py
 # 启动界面
 python app.py
 
-## 由于大小限制没有上传数据集，这是链接
-   https://www.kaggle.com/datasets/alanbrian/processed-douban
+# 由于大小限制没有上传数据集，这是链接
+https://www.kaggle.com/datasets/alanbrian/processed-douban
