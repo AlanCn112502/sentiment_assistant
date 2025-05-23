@@ -34,3 +34,5 @@ python app.py
 
 # 由于大小限制没有上传数据集，这是链接
 https://www.kaggle.com/datasets/alanbrian/processed-douban
+
+# 由于kaggle限制时长，出于研究目的，本模型train1h只训练了一小时
